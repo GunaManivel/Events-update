@@ -1,0 +1,32 @@
+* {
+    font-family: "Audiowide", sans-serif;
+}
+img {
+           
+    width: 100%;
+    height: auto;
+   
+}
+.container {
+    margin-top: 20px;
+  }
+
+h1, h3 {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    border: 2px solid black;
+    margin: 20px 0;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.btn1 {
+    display: flex;
+    width: 20%;
+    margin: 10px;
+   justify-content: space-evenly;
+}
+
